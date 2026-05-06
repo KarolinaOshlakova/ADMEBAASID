@@ -81,7 +81,6 @@ VALUES ('nokia', 1, 2, 2002, 1700);
 ```
 <img width="453" height="125" alt="{E2BDF75E-D454-4ECE-AC48-6271F4DAB3A3}" src="https://github.com/user-attachments/assets/bf608143-f9b0-49cb-bfc5-4135cae2ddf5" />
 
-## CREATE PROTSEDUURID -
 
 ```sql
 --protseduur, mis kuvab tooded, kus on hind suurem kui sisestatud hind
