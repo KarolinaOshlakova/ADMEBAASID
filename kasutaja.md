@@ -63,4 +63,7 @@ GRANT UPDATE ON opilane TO directorKarolina;
 <img width="713" height="554" alt="{476F3D85-96E1-4BE3-8C09-89005887F494}" src="https://github.com/user-attachments/assets/ef5edde9-5a41-428e-9f09-e916166eb81d" />
 
 
+<img width="811" height="457" alt="{1DB7AFB2-969E-4A7B-9D2F-021AFDB1726F}" src="https://github.com/user-attachments/assets/e97c17e7-7c4f-4d99-b44b-3e3798f92369" />
+
+
 
